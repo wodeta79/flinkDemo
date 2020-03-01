@@ -4,7 +4,7 @@ import java.util
 
 import org.apache.flink.api.scala.{AggregateDataSet, DataSet, ExecutionEnvironment}
 
-object flinkDemo {
+object flinkDataSetDemo {
 
 
   def main(args: Array[String]): Unit = {
